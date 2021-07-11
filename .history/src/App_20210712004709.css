@@ -244,7 +244,6 @@ nav {
 
 .titletext h1 {
     position: absolute;
-    width: 700px;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -260,7 +259,7 @@ nav {
 .abouttext {
     position: absolute;
     width: 600px;
-    top: 132%;
+    top: 140%;
     left: 52%;
     transform: translate(-50%, -50%);
     display: flex;

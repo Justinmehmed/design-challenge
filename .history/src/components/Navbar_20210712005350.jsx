@@ -30,7 +30,7 @@ const Navbar = () => {
                 <li className="link"><a href="/#/about">About Us</a></li>
                 <li className="link"><a href="/#/services">Services</a></li>
                 <li className="link"><a href="/#/portfolio">Portfolio</a></li>
-                <li className="link"><a href="/#/contact">Contact</a></li>
+                <li className="link"><a href="/contact">Contact</a></li>
 
             </ul>
             <div onClick={handleNavLinkToggle} className="hamburger">
